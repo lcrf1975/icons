@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:se="http://svg-edit.googlecode.com" data-name="Layer 1">
+ <defs>
+  <style>.cls-1{fill:#fff;stroke:#23487c;stroke-linecap:round;stroke-linejoin:round;}.cls-1,.cls-2{stroke-width:1.25px;}.cls-2{fill:none;stroke:#2d76bc;stroke-miterlimit:10;}</style>
+ </defs>
+ <g class="currentLayer layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path class="cls-2" d="m5.80815,9.07886l-0.98885,0a0.71656,0.71656 0 0 0 -0.71655,0.71656l0,7.72446a0.71656,0.71656 0 0 0 0.71655,0.71656l10.3614,0a0.71656,0.71656 0 0 0 0.71655,-0.71656l0,-7.70297a0.71656,0.71656 0 0 0 -0.71655,-0.71655l-9.37255,0l0,-0.0215z" id="svg_8"/>
+   <path class="cls-2" d="m7.57804,9.07886l-0.80971,-2.14967a2.48645,2.48645 0 0 1 4.66478,-1.75556l0.51592,1.36146a0.38694,0.38694 0 0 0 0.50159,0.22213l0.95302,-0.35828a0.39411,0.39411 0 0 0 0.2293,-0.50159l-0.52309,-1.36145a4.29933,4.29933 0 1 0 -8.04692,3.06686l0.56608,1.48327l1.94903,0l0,-0.00717z" id="svg_9"/>
+  </g>
+ </g>
+</svg>
